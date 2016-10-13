@@ -1,5 +1,8 @@
 .DS_Store
-
+*.xlsx
+*.xls
+*.sh
+*.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
